@@ -53,5 +53,6 @@ Consider creating an Account class to encapsulate user credentials and implement
  To run the application, compile and execute the signup and Login classes. The registration window will be displayed first.
 
 **Dependacies**
+- OOP
 - Java swing
 - Java Development kit (JDK).
